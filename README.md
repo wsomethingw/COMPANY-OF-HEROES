@@ -1,1 +1,1 @@
-# COMPANY-OF-HEROES
+# Практическая работа 3 (COMPANY OF HEROES)
